@@ -1,1 +1,0 @@
-# GPUProgrammingT.A.Class
